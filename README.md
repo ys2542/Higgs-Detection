@@ -1,4 +1,4 @@
-# Higgs Dection
+# Physical Signal Phenomenon Higgs Prediction by Machine Learning Models
 
 Spring 2018 CSCI-GA 2567 Machine Learning Project
 
